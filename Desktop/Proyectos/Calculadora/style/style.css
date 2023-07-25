@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    width: 30px;
+}
+
+.btn{
+    background-color: rgb(119, 119, 119);
+    border-radius: 30px;
+    color: whitesmoke;
+}
